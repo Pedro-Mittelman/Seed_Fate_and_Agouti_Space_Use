@@ -1,0 +1,36 @@
+READ ME FIRST
+
+1- Data details the fate of Joannesia princeps seeds exposed to interaction with agoutis (Dasyprocta leporina)
+
+2 -Data is on csv format
+
+3- Each line represents a seed on a specific date
+
+4- Columns entries are in portuguese language;
+translation goes as following:
+
+ Pontos - Location ID
+ Nome - Name of Location
+Data - Date of assessment
+ Semente - Seed ID within location
+ Detino - Seed Fate
+   N= Intact
+   P= Preyed
+   D= Dispersed
+   RP= Preyed after dispersal
+   S= Missing
+Enterrada - Seed Burrial
+ S-Yes
+ N-No
+Distance - Distance from source
+D2 - Distance of Secondary Dispersal
+D3 - Distance of Tertiary Dispersal
+D4 - Distance of Quaternary Dispersal
+Mudanca - Is there any new information since last
+check up?
+ S- Yes
+ N- NO
+Sessenta- Number of independent records of agoutis in that location (Intensity of Space Use), corrected by trap effort
+
+Doubts? 
+contact uchoa_mitt@gmail.com
